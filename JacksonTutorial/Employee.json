@@ -1,0 +1,13 @@
+{
+	"emp_id":"ENO111",
+	"emp_name":"Jack",
+	"emp_salary":100000.0,
+	"emp_address":
+				{  "house_no":"hno1",
+				   "street":"Wall Street",
+				   "city":"NYC",
+				   "state":"USA"
+				},
+	"emp_hobbies":["hockey","football"],
+	"emp_contact":99119922
+}
